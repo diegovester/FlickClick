@@ -1,2 +1,2 @@
-# FlickClick
+# FlickTick
 Movies to watch together
